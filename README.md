@@ -4,3 +4,6 @@ Each person has the right to a relocation within the solar system for FREE! We d
 # Journey to MARS
  
 Solar system can sustain ~100 billion people. We see point in this sentence: each person has the Right to a relocation within Solar System for FREE as best at the moment idea to how to solve Humanity sustainability problem. We design concept which can help us to reach stars and save Earth :) Be happy :)
+
+# relocation to MARS for FREE
+
