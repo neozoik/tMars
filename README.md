@@ -1,3 +1,11 @@
+# to do list
+1. Update README.MD
+2. Mars colony poster
+3. Mars cannabis SORTIS campaign
+4. SS Skovoroda mockup
+
+
+
 # tMars
 Each person has the right to a relocation within the solar system for FREE! We design mission concept for journey to Mars. On Mars, we believe everybody can build new self.. As one say - You take your life in your own hands, and what happens? A terrible thing, no one to blame!
 
