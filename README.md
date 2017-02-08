@@ -1,4 +1,4 @@
-# to do list
+# to do list (week)
 1. Update README.MD
 2. Mars colony poster
 3. Mars cannabis SORTIS campaign
