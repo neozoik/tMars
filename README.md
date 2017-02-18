@@ -1,5 +1,5 @@
 # to do list (week)
-1. README.MD update
+1. Upgrade the process
 2. Mars colony poster
 3. Mars cannabis SORTIS campaign
 4. SS Skovoroda mockup
