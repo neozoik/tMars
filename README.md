@@ -3,10 +3,9 @@
 2. Mars colony poster
 3. Mars cannabis SORTIS campaign
 4. SS Skovoroda mockup
-5. ...
-6. Schedule
-7. RoadMap
-
+5. Schedule
+6. RoadMap
+7. ...
 
 
 # tMars
