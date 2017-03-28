@@ -1,4 +1,4 @@
-# nodeadline
+# nodeadlineproject
 
 # To Do List ()
 
@@ -12,6 +12,19 @@
 
 # tMars
 Each person has the right to a relocation within the solar system for FREE! We design mission concept for journey to Mars. On Mars, we believe everybody can build new self.. As one say - You take your life in your own hands, and what happens? A terrible thing, no one to blame!
+
+# Game
+1. Naming [Ra,Sun, Helios, Sol, Wanderer]
+2. Tor as basic structure
+3. Attention control order && Meditation control amount of chaos
+4. 
+
+# levels
+1. C1[Sol, attention, offense by ordering, nero, reasoning]
+2. C2[Helios, meditation, defense from chaos, timeless, nero, reasoning]
+3. C3[Ra, att&&med, chaos&&order balance]
+4. T1 blacksmith
+5. S1 nightmare
 
 # Journey to MARS
  
