@@ -1,9 +1,4 @@
 
-
-
-
-
-
 # To Do List (time)
 
 1. Upgrade the process
