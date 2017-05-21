@@ -32,4 +32,3 @@ Solar system can sustain ~100 billion people. We see point in this sentence: eac
 
 # relocation to MARS for FREE
 # relocation around solar system for FREE
-
